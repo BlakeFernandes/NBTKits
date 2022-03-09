@@ -1,0 +1,20 @@
+database:
+  type: SQLite
+  host: 127.0.0.1
+  password: somepassword
+
+settings:
+  hooks:
+    essentials: true
+  gui:
+    enabled: true
+    title: '&8Kit Gui'
+    rows: 3
+    filler: GREY_STAINED_GLASS_PANE
+    other-items:
+
+aliases:
+  view:
+    - nkits
+  create:
+    - nkitcreate

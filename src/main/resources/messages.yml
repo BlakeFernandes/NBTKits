@@ -1,0 +1,8 @@
+messages:
+  help: "&cAvailable Kits: &f%kits%"
+  invalid_kit: "&cThe kit %kit% does not exist!"
+  kit_exists: "&cA kit with that name already exists!"
+  invalid_player: "&cPlayer is not online!"
+  given_kit: "&7You gave &e%player% &7the &e%kit%&7 kit."
+  received_kit: "&7Received &e%kit% &7kit."
+  kit_created: "&7Created new kit %kit%!"

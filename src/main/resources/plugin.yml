@@ -1,5 +1,5 @@
 name: Kits
 version: 1
-main: net.pvpclash.kits.Kits
+main: me.blake.kits.Kits
 depend:
   - helper
